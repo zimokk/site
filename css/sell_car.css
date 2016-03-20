@@ -1,0 +1,8 @@
+.btn-circle.btn-l {
+    width: 100px;
+    height: 100px;
+    padding: 10px 16px;
+    font-size: 24px;
+    line-height: 1.33;
+    border-radius: 100px;
+}
